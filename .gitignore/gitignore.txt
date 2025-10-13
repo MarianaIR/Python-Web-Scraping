@@ -1,0 +1,35 @@
+# Jupyter Notebook checkpoints and temporary files
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Environment and secrets
+.env
+*.env
+.env.*
+credentials.*
+secrets.*
+token_*
+password.*
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and output
+*.log
+*.out
+
+# Database and serialized files
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+
+# Certificates and keys
+*.key
+*.pem
+*.p12
+*.crt
+*.cer
+*.der
